@@ -29,3 +29,9 @@ Head First 系列主打通俗易懂，适合入门选择。
 ### 深入理解Java虚拟机：JVM高级特性与最佳实践 | [8.9](https://book.douban.com/subject/24722612/)
 
 比较透彻的讲解了 JVM，可以通读一遍之后作为速查手册
+
+### JavaScript权威指南 | [8.8](https://book.douban.com/subject/10549733/)
+
+### Spring 3.x企业应用开发实战 | [8.3]( https://book.douban.com/subject/10432844/)
+
+### 人性的弱点 | [8.0]( https://book.douban.com/subject/1837006/)
