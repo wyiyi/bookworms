@@ -10,6 +10,10 @@ Head First 系列主打通俗易懂，适合入门选择。
 本书也是图文并茂的介绍了各种设计模式，并配有使用示例，对各种设计模式会有一个较为直观的印象。
 推荐看英文版，很厚，但多图且英文词汇比较简单，看完之后会极大增强阅读英文文档自信心
 
+### Java 8实战 | [9.1](https://book.douban.com/subject/26772632/)
+
+本书全面介绍了Java 8 这个里程碑版本的新特性，包括Lambdas、流和函数式编程。有了函数式的编程特性，可以让代码更简洁，同时也能自动化地利用多核硬件
+
 ### JavaScript权威指南 | [8.8](https://book.douban.com/subject/10549733/)
 
 程序员学习核心JavaScript语言和由Web浏览器定义的JavaScript API的指南和综合参考手册
@@ -32,6 +36,10 @@ Head First 系列主打通俗易懂，适合入门选择。
 Spring 3.0引入了众多Java开发者翘首以盼的新功能和新特性，如OXM、校验及格式化框架、REST风格的Web编程模型等。
 本书重点突出了“实战性”的主题，力求使全书“从实际项目中来，到实际项目中去。
 
+### Spring Cloud微服务实战 | [7.5](https://book.douban.com/subject/27025912/)
+
+《Spring Cloud微服务实战》适合所有Java开发人员，尤其适合正在做微服务架构技术选型或正在实施微服务架构的团队查阅和参考。
+
 ### Spring in Action | [7.8](https://book.douban.com/subject/24830012/)
 
 `XX in Action` 系列，中文版一般名为 《XX 实战》，深入浅出，可以用来 Spring 入门及夯实基础概念，作用仅次于 Spring 官方文档
@@ -43,3 +51,7 @@ Spring 3.0引入了众多Java开发者翘首以盼的新功能和新特性，如
 ### 深入理解Java虚拟机：JVM高级特性与最佳实践 | [8.9](https://book.douban.com/subject/24722612/)
 
 比较透彻的讲解了 JVM，可以通读一遍之后作为速查手册
+
+### 微服务架构与实践 | [4.9](https://book.douban.com/subject/26693152/)
+
+本书首先从理论出发，介绍了微服务架构的概念、诞生背景、本质特征以及优缺点
