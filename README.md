@@ -26,6 +26,10 @@ Head First 系列主打通俗易懂，适合入门选择。
 
 `七周七` 系列，可用来打破某种具体编程语言的局限性，发散思维
 
+### 人人都是产品经理 | [7.6](https://book.douban.com/subject/4723970/)
+
+写给 `-1 到 3 岁的产品经理`
+
 ### 人性的弱点 | [8.0](https://book.douban.com/subject/1837006/)
 
 他运用社会学和心理学知识，对人性进行了深刻的探讨和分析。
@@ -51,6 +55,10 @@ Spring 3.0引入了众多Java开发者翘首以盼的新功能和新特性，如
 ### 深入理解Java虚拟机：JVM高级特性与最佳实践 | [8.9](https://book.douban.com/subject/24722612/)
 
 比较透彻的讲解了 JVM，可以通读一遍之后作为速查手册
+
+### 图解 HTTP | [8.1](https://book.douban.com/subject/25863515/)
+
+通俗易懂，深入浅出对 HTTP 协议进行了全面系统的介绍
 
 ### Web安全深度剖析 | [8.9](https://book.douban.com/subject/26348894/)
 
