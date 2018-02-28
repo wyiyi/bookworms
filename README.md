@@ -35,10 +35,11 @@ Head First 系列主打通俗易懂，适合入门选择。
 他运用社会学和心理学知识，对人性进行了深刻的探讨和分析。
 他讲述的许多普通人通过奋斗获得成功的真实故事，激励了无数陷入迷茫和困境的人，帮助他们重新找到了自己的人生。
 
-### Spring 3.x企业应用开发实战 | [8.3](https://book.douban.com/subject/10432844/)
+### 精通Spring 4.x企业应用开发实战 | [8.5](https://book.douban.com/subject/26952826/)
 
-Spring 3.0引入了众多Java开发者翘首以盼的新功能和新特性，如OXM、校验及格式化框架、REST风格的Web编程模型等。
-本书重点突出了“实战性”的主题，力求使全书“从实际项目中来，到实际项目中去。
+Spring 4.0是Spring在积蓄4年后，隆重推出的一个重大升级版本，进一步加强了Spring作为Java领域第一开源平台的翘楚地位。
+Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置、HTML 5/WebSocket支持等新功能，
+全面支持Java 8.0，最低要求是Java 6.0。
 
 ### Spring Cloud微服务实战 | [7.5](https://book.douban.com/subject/27025912/)
 
