@@ -57,7 +57,7 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 
 比较透彻的讲解了 JVM，可以通读一遍之后作为速查手册
 
-### 图解 HTTP | [8.1](https://book.douban.com/subject/25863515/)
+### [图解 HTTP](https://github.com/oopstorm/bookworms/issues/6) | [8.1](https://book.douban.com/subject/25863515/)
 
 通俗易懂，深入浅出对 HTTP 协议进行了全面系统的介绍
 
