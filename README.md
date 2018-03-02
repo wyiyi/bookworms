@@ -61,13 +61,9 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 
 通俗易懂，深入浅出对 HTTP 协议进行了全面系统的介绍
 
-### Web安全深度剖析 | [8.9](https://book.douban.com/subject/26348894/)
+### Web安全深度剖析 | [7.6](https://book.douban.com/subject/26348894/)
 
 系统性了解web安全，安全基础，常见的安全问题，攻防方式。
-
-### 微服务架构与实践 | [4.9](https://book.douban.com/subject/26693152/)
-
-本书首先从理论出发，介绍了微服务架构的概念、诞生背景、本质特征以及优缺点
 
 ### 信息系统项目管理师教程（第3版） | [无评分](https://book.douban.com/subject/27167826/)
 
