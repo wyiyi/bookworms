@@ -1,6 +1,6 @@
 # bookworms
 
-### 代码整洁之道 | [8.6](https://book.douban.com/subject/4199741/)
+### [代码整洁之道](https://github.com/oopstorm/bookworms/issues/7) | [8.6](https://book.douban.com/subject/4199741/)
 
 如果你需要写代码，建议都先看一下，对编码习惯有极大的正面影响
 
@@ -65,6 +65,6 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 
 系统性了解web安全，安全基础，常见的安全问题，攻防方式。
 
-### 信息系统项目管理师教程（第3版） | [无评分](https://book.douban.com/subject/27167826/)
+### [信息系统项目管理师教程（第3版）](https://github.com/oopstorm/bookworms/issues/8) | [无评分](https://book.douban.com/subject/27167826/)
 
 官方教材，2017最新改版，全面抄袭PMBOK第五版。
