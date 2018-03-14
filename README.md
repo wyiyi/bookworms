@@ -68,3 +68,6 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 ### [信息系统项目管理师教程（第3版）](https://github.com/oopstorm/bookworms/issues/8) | [无评分](https://book.douban.com/subject/27167826/)
 
 官方教材，2017最新改版，全面抄袭PMBOK第五版。
+### [用户体验要素](https://github.com/oopstorm/bookworms/issues/13) | [8.4](https://book.douban.com/subject/6523997/)
+
+诠释了设计、技术和商业融合是最重要的发展趋势。
