@@ -4,7 +4,7 @@
 
 如果你需要写代码，建议都先看一下，对编码习惯有极大的正面影响
 
-### Head First Design Patterns (https://github.com/oopstorm/bookworms/issues/12)| [9.1](https://book.douban.com/subject/1400656/)
+### Head First Design Patterns (https://github.com/oopstorm/bookworms/issues/12) | [9.1](https://book.douban.com/subject/1400656/)
 
 Head First 系列主打通俗易懂，适合入门选择。
 本书也是图文并茂的介绍了各种设计模式，并配有使用示例，对各种设计模式会有一个较为直观的印象。
@@ -22,20 +22,20 @@ Head First 系列主打通俗易懂，适合入门选择。
 
 比较厚，读起来有点耗费心智，介绍了大量敏捷软件开发的原则、模式与实践，稍微偏理论
 
-### 七周七语言：理解多种编程泛型 (https://github.com/oopstorm/bookworms/issues/9)| [8.1](https://book.douban.com/subject/10555435/)
+### 七周七语言：理解多种编程泛型 (https://github.com/oopstorm/bookworms/issues/9) | [8.1](https://book.douban.com/subject/10555435/)
 
 `七周七` 系列，可用来打破某种具体编程语言的局限性，发散思维
 
-### 人人都是产品经理 (https://github.com/oopstorm/bookworms/issues/15)| [7.6](https://book.douban.com/subject/4723970/)
+### 人人都是产品经理 (https://github.com/oopstorm/bookworms/issues/15) | [7.6](https://book.douban.com/subject/4723970/)
 
 写给 `-1 到 3 岁的产品经理`
 
-### 人性的弱点 (https://github.com/oopstorm/bookworms/issues/16)| [8.0](https://book.douban.com/subject/1837006/)
+### 人性的弱点 (https://github.com/oopstorm/bookworms/issues/16) | [8.0](https://book.douban.com/subject/1837006/)
 
 他运用社会学和心理学知识，对人性进行了深刻的探讨和分析。
 他讲述的许多普通人通过奋斗获得成功的真实故事，激励了无数陷入迷茫和困境的人，帮助他们重新找到了自己的人生。
 
-### 精通Spring 4.x企业应用开发实战 (https://github.com/oopstorm/bookworms/issues/14)| [8.5](https://book.douban.com/subject/26952826/)
+### 精通Spring 4.x企业应用开发实战 (https://github.com/oopstorm/bookworms/issues/14) | [8.5](https://book.douban.com/subject/26952826/)
 
 Spring 4.0是Spring在积蓄4年后，隆重推出的一个重大升级版本，进一步加强了Spring作为Java领域第一开源平台的翘楚地位。
 Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置、HTML 5/WebSocket支持等新功能，
