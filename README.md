@@ -12,6 +12,10 @@
 
 如果你需要写代码，建议都先看一下，对编码习惯有极大的正面影响
 
+### ES6 入门教程（第三版） | [暂无] 
+
+本书根据ES2017标准，详尽介绍了所有新增的语法，对基本概念、设计目的和用法进行了清晰的讲解，给出了大量简单易懂的示例。
+
 ### [Head First Design Patterns](https://github.com/oopstorm/bookworms/issues/12) | [9.1](https://book.douban.com/subject/1400656/)
 
 Head First 系列主打通俗易懂，适合入门选择。
