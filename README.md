@@ -38,11 +38,11 @@ Head First 系列主打通俗易懂，适合入门选择。
 
 `七周七` 系列，可用来打破某种具体编程语言的局限性，发散思维
 
-### [人人都是产品经理](https://github.com/oopstorm/oopstorm.github.io/issues/11) | [7.6](https://book.douban.com/subject/4723970/)
+### [人人都是产品经理](https://github.com/oopstorm/oopstorm.github.io/issues/12) | [7.6](https://book.douban.com/subject/4723970/)
 
 写给 `-1 到 3 岁的产品经理`
 
-### [人性的弱点](https://github.com/oopstorm/oopstorm.github.io/issues/12) | [8.0](https://book.douban.com/subject/1837006/)
+### [人性的弱点](https://github.com/oopstorm/oopstorm.github.io/issues/11) | [8.0](https://book.douban.com/subject/1837006/)
 
 他运用社会学和心理学知识，对人性进行了深刻的探讨和分析。
 他讲述的许多普通人通过奋斗获得成功的真实故事，激励了无数陷入迷茫和困境的人，帮助他们重新找到了自己的人生。
