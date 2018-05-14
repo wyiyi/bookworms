@@ -1,6 +1,6 @@
 # bookworms
 
-### [Angular5 高级编程](https://github.com/oopstorm/bookworms/issues/21) | [无评分]
+### Angular5 高级编程 | [无评分]
 
 图书内容已跟进到 Angular 5，能助你快速学习 Angular 框架的新版，充分利用新框架的强大功能。
 
@@ -16,7 +16,7 @@
 
 本书根据ES2017标准，详尽介绍了所有新增的语法，对基本概念、设计目的和用法进行了清晰的讲解，给出了大量简单易懂的示例。
 
-### [Head First Design Patterns](https://github.com/oopstorm/bookworms/issues/12) | [9.1](https://book.douban.com/subject/1400656/)
+### [Head First Design Patterns](https://github.com/oopstorm/oopstorm.github.io/issues/9) | [9.1](https://book.douban.com/subject/1400656/)
 
 Head First 系列主打通俗易懂，适合入门选择。
 本书也是图文并茂的介绍了各种设计模式，并配有使用示例，对各种设计模式会有一个较为直观的印象。
@@ -34,15 +34,15 @@ Head First 系列主打通俗易懂，适合入门选择。
 
 比较厚，读起来有点耗费心智，介绍了大量敏捷软件开发的原则、模式与实践，稍微偏理论
 
-### [七周七语言：理解多种编程泛型](https://github.com/oopstorm/bookworms/issues/9) | [8.1](https://book.douban.com/subject/10555435/)
+### [七周七语言：理解多种编程泛型](https://github.com/oopstorm/oopstorm.github.io/issues/8) | [8.1](https://book.douban.com/subject/10555435/)
 
 `七周七` 系列，可用来打破某种具体编程语言的局限性，发散思维
 
-### [人人都是产品经理](https://github.com/oopstorm/bookworms/issues/15) | [7.6](https://book.douban.com/subject/4723970/)
+### [人人都是产品经理](https://github.com/oopstorm/oopstorm.github.io/issues/11) | [7.6](https://book.douban.com/subject/4723970/)
 
 写给 `-1 到 3 岁的产品经理`
 
-### [人性的弱点](https://github.com/oopstorm/bookworms/issues/16) | [8.0](https://book.douban.com/subject/1837006/)
+### [人性的弱点](https://github.com/oopstorm/oopstorm.github.io/issues/12) | [8.0](https://book.douban.com/subject/1837006/)
 
 他运用社会学和心理学知识，对人性进行了深刻的探讨和分析。
 他讲述的许多普通人通过奋斗获得成功的真实故事，激励了无数陷入迷茫和困境的人，帮助他们重新找到了自己的人生。
@@ -73,7 +73,7 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 
 《实战Java高并发程序设计》主要介绍基于Java的并行程序设计基础、思路、方法和实战。
 
-### [图解 HTTP](https://github.com/oopstorm/bookworms/issues/6) | [8.1](https://book.douban.com/subject/25863515/)
+### [图解 HTTP](https://github.com/oopstorm/oopstorm.github.io/issues/7) | [8.1](https://book.douban.com/subject/25863515/)
 
 通俗易懂，深入浅出对 HTTP 协议进行了全面系统的介绍
 
@@ -85,6 +85,6 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 
 官方教材，2017最新改版，全面抄袭PMBOK第五版。
 
-### [用户体验要素](https://github.com/oopstorm/bookworms/issues/13) | [8.4](https://book.douban.com/subject/6523997/)
+### [用户体验要素](https://github.com/oopstorm/oopstorm.github.io/issues/10) | [8.4](https://book.douban.com/subject/6523997/)
 
 诠释了设计、技术和商业融合是最重要的发展趋势。
