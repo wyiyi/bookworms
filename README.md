@@ -69,6 +69,10 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 
 比较透彻的讲解了 JVM，可以通读一遍之后作为速查手册
 
+### 实战Java高并发程序设计 | [8.4](https://book.douban.com/subject/26663605/)
+
+《实战Java高并发程序设计》主要介绍基于Java的并行程序设计基础、思路、方法和实战。
+
 ### [图解 HTTP](https://github.com/oopstorm/bookworms/issues/6) | [8.1](https://book.douban.com/subject/25863515/)
 
 通俗易懂，深入浅出对 HTTP 协议进行了全面系统的介绍
