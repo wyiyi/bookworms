@@ -8,7 +8,7 @@
 
 官方教材，2017最新版，产品经理必读。
 
-### [代码整洁之道](https://github.com/oopstorm/bookworms/issues/7) | [8.6](https://book.douban.com/subject/4199741/)
+### 代码整洁之道 | [8.6](https://book.douban.com/subject/4199741/)
 
 如果你需要写代码，建议都先看一下，对编码习惯有极大的正面影响
 
@@ -26,7 +26,7 @@ Head First 系列主打通俗易懂，适合入门选择。
 
 本书全面介绍了Java 8 这个里程碑版本的新特性，包括Lambdas、流和函数式编程。有了函数式的编程特性，可以让代码更简洁，同时也能自动化地利用多核硬件
 
-### [JavaScript权威指南](https://github.com/oopstorm/bookworms/issues/11) | [8.8](https://book.douban.com/subject/10549733/)
+### JavaScript权威指南 | [8.8](https://book.douban.com/subject/10549733/)
 
 程序员学习核心JavaScript语言和由Web浏览器定义的JavaScript API的指南和综合参考手册
 
@@ -47,7 +47,7 @@ Head First 系列主打通俗易懂，适合入门选择。
 他运用社会学和心理学知识，对人性进行了深刻的探讨和分析。
 他讲述的许多普通人通过奋斗获得成功的真实故事，激励了无数陷入迷茫和困境的人，帮助他们重新找到了自己的人生。
 
-### [精通Spring 4.x企业应用开发实战](https://github.com/oopstorm/bookworms/issues/14) | [8.5](https://book.douban.com/subject/26952826/)
+### 精通Spring 4.x企业应用开发实战 | [8.5](https://book.douban.com/subject/26952826/)
 
 Spring 4.0是Spring在积蓄4年后，隆重推出的一个重大升级版本，进一步加强了Spring作为Java领域第一开源平台的翘楚地位。
 Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置、HTML 5/WebSocket支持等新功能，
@@ -76,14 +76,6 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 ### [图解 HTTP](https://github.com/oopstorm/oopstorm.github.io/issues/7) | [8.1](https://book.douban.com/subject/25863515/)
 
 通俗易懂，深入浅出对 HTTP 协议进行了全面系统的介绍
-
-### [Web安全深度剖析](https://github.com/oopstorm/bookworms/issues/10) | [7.6](https://book.douban.com/subject/26348894/)
-
-系统性了解web安全，安全基础，常见的安全问题，攻防方式。
-
-### [信息系统项目管理师教程（第3版）](https://github.com/oopstorm/bookworms/issues/8) | [无评分](https://book.douban.com/subject/27167826/)
-
-官方教材，2017最新改版，全面抄袭PMBOK第五版。
 
 ### [用户体验要素](https://github.com/oopstorm/oopstorm.github.io/issues/10) | [8.4](https://book.douban.com/subject/6523997/)
 
