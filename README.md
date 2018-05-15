@@ -58,6 +58,10 @@ Spring 4.0是Spring在积蓄4年后，隆重推出的一个重大升级版本，
 Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置、HTML 5/WebSocket支持等新功能，
 全面支持Java 8.0，最低要求是Java 6.0。
 
+### Open Stack设计与实现 | [8.7](https://book.douban.com/subject/26374647/)
+
+适合对OpenStack茫然的初学者，以及有一定使用部署经验但是希望了解OpenStack实现原理的广大用户。
+
 ### Spring Cloud微服务实战 | [7.5](https://book.douban.com/subject/27025912/)
 
 《Spring Cloud微服务实战》适合所有Java开发人员，尤其适合正在做微服务架构技术选型或正在实施微服务架构的团队查阅和参考。
@@ -85,4 +89,5 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 ### [用户体验要素](https://github.com/oopstorm/oopstorm.github.io/issues/10) | [8.4](https://book.douban.com/subject/6523997/)
 
 诠释了设计、技术和商业融合是最重要的发展趋势。
+
 
