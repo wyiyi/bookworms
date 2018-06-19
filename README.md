@@ -1,4 +1,8 @@
-# bookworms
+﻿# bookworms
+
+### About Face 4: 交互设计精髓 | [8.5](https://book.douban.com/subject/26642302/)
+
+《About Face 4: 交互设计精髓》是一本数字产品和系统的交互设计指南，全面系统地讲述了交互设计的过程、原理和方法，涉及的产品和系统有个人计算机上的个人和商务软件、Web 应用、手持设备、信息亭、数字医疗系统、数字工业系统等。
 
 ### Angular5 高级编程 | [无评分]
 
@@ -93,3 +97,5 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 ### 在你身边，为你设计 | [7.2](https://book.douban.com/subject/20471302/)
 
 本书是腾讯核心部门之一CDC的设计经验总结和分享。
+
+
