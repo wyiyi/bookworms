@@ -51,11 +51,11 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 
 ### [七周七语言：理解多种编程泛型](https://github.com/oopstorm/oopstorm.github.io/issues/8) | [8.1](https://book.douban.com/subject/10555435/)
 
+`七周七` 系列，可用来打破某种具体编程语言的局限性，发散思维
+
 ### 启示录 | [8.5](https://book.douban.com/subject/5914587/)
 
 为什么市场上那么多软件产品无人问津，成功的产品凤毛麟角？怎样发掘有价值的产品？拿什么说服开发团队接受你的产品设计？如何将敏捷方法融入产品开发？《启示录：打造用户喜爱的产品》从人员、流程、产品三个角度介绍了现代软件（互联网）产品管理的实践经验和理念。
-
-`七周七` 系列，可用来打破某种具体编程语言的局限性，发散思维
 
 ### [人人都是产品经理](https://github.com/oopstorm/oopstorm.github.io/issues/12) | [7.6](https://book.douban.com/subject/4723970/)
 
@@ -107,5 +107,3 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 ### 在你身边，为你设计 | [7.2](https://book.douban.com/subject/20471302/)
 
 本书是腾讯核心部门之一CDC的设计经验总结和分享。
-
-
