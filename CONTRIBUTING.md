@@ -2,7 +2,7 @@
 
 [bookworms](https://github.com/oopstorm/bookworms) 仓库旨在督促 OopStormers 每两月读完一本书，并进行分享交流
 
-## 0x01
+## 00
 
 读书前需先将欲读书目提交至 [README](https://github.com/oopstorm/bookworms/blob/master/README.md) 文档中，提交时需遵守如下规范：
 
@@ -20,7 +20,7 @@ Head First 系列主打通俗易懂，适合入门选择。
 推荐看英文版，很厚，但多图且英文词汇比较简单，看完之后会极大增强阅读英文文档自信心
 ```
 
-## 0x10
+## 01
 
 交流分享前，需先为书目在 [团队博客](https://oopstorm.github.io/) 中创建一篇博文，并完成评论的初始化工作（需联系团队博客管理员协助进行）。之后将评论的 issue 链接更新到 [README](https://github.com/oopstorm/bookworms/blob/master/README.md) 相应书目的书名处。分享的内容可在 issue 中进行评论。
 
@@ -29,3 +29,42 @@ Head First 系列主打通俗易懂，适合入门选择。
 * [书目](https://github.com/oopstorm/bookworms/blob/master/README.md#%E5%9B%BE%E8%A7%A3-http--81)
 * [博文](https://oopstorm.github.io/2018/04/03/2018-04-03-http/)
 * [评论](https://github.com/oopstorm/oopstorm.github.io/issues/7)
+
+## 10
+
+**提交读书笔记方法**
+
+
+1. 编写 Markdown 文件，并放置到 oopstorm/oopstorm.github.io/source/_posts 中
+
+		文件起名为：年-月-日-书名.md
+		例：2018-07-05-NPDP.md
+
+2. 需要在头部设置文章属性
+
+		// 文章属性设置方法
+		在 Markdown 文件头部加入以下文本即可
+		layout: 文章默认填写 pages
+		title: 文章标题，未设置 title 会显示 [Untitled Post]
+		date: 支持年月日时分秒
+		tags: 文章标签，用于文章分类，可设置多个，例：
+		tags: [前端,Angular]
+		读书笔记的标签为必填，tag 为 bookworms
+
+		例：
+
+		---
+		layout: pages
+		title: 七周其语言：理解多种编程泛型
+		date: 2018.04.04
+		tags: bookworms
+		---
+
+3. 在内容中写上书名、豆瓣评分、链接、以及 bookworms 中的简评
+
+		例：
+		### 七周七语言：理解多种编程泛型 | [8.1](https://book.douban.com/subject/10555435/)
+	
+		`七周七` 系列，可用来打破某种具体编程语言的局限性，发散思维
+		
+4. PR 合并后，在[团队博客](https://oopstorm.github.io)地址下找到对应的文章，提交评论即可
