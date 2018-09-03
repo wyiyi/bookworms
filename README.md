@@ -27,7 +27,11 @@ Head First 系列主打通俗易懂，适合入门选择。
 本书也是图文并茂的介绍了各种设计模式，并配有使用示例，对各种设计模式会有一个较为直观的印象。
 推荐看英文版，很厚，但多图且英文词汇比较简单，看完之后会极大增强阅读英文文档自信心
 
-### Java 8实战 | [9.1](https://book.douban.com/subject/26772632/)
+### 黑客与画家 | [8.9](https://book.douban.com/subject/25724948/)
+
+空缺，读过之后再评价
+
+### [Java 8实战](https://github.com/oopstorm/oopstorm.github.io/issues/42) | [9.1](https://book.douban.com/subject/26772632/)
 
 本书全面介绍了Java 8 这个里程碑版本的新特性，包括Lambdas、流和函数式编程。有了函数式的编程特性，可以让代码更简洁，同时也能自动化地利用多核硬件
 
