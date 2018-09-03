@@ -47,6 +47,10 @@ Head First 系列主打通俗易懂，适合入门选择。
 
 本书全面介绍了Java 8 这个里程碑版本的新特性，包括Lambdas、流和函数式编程。有了函数式的编程特性，可以让代码更简洁，同时也能自动化地利用多核硬件
 
+### JavaScript模式 | [8.7](https://book.douban.com/subject/11506062/)
+
+《JavaScript模式》包含了实现每个讨论的模式的实践建议，并附有数个可以立即上手的范例。同时还可以学到一些反模式，一些常见的编程方式，这些编程方式引发的问题比解决的还多。它不是一本入门级的书，而是适用于希望将自身的Javascript技巧提高到一个新层次的专业的开发人员和程序员。
+
 ### JavaScript权威指南 | [8.8](https://book.douban.com/subject/10549733/)
 
 程序员学习核心JavaScript语言和由Web浏览器定义的JavaScript API的指南和综合参考手册
