@@ -122,6 +122,10 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 
 《实战Java高并发程序设计》主要介绍基于Java的并行程序设计基础、思路、方法和实战。
 
+### Tensorflow：实战Google深度学习框架 | [8.4](https://book.douban.com/subject/26976457/)
+
+《Tensorflow实战》为使用TensorFlow深度学习框架的入门参考书，旨在帮助读者以最快、最有效的方式上手TensorFlow和深度学习。书中省略了深度学习繁琐的数学模型推导，从实际应用问题出发，通过具体的TensorFlow样例程序介绍如何使用深度学习解决这些问题。
+
 ### [图解 HTTP](https://github.com/oopstorm/oopstorm.github.io/issues/7) | [8.1](https://book.douban.com/subject/25863515/)
 
 通俗易懂，深入浅出对 HTTP 协议进行了全面系统的介绍
