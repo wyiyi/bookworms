@@ -64,6 +64,10 @@ Head First 系列主打通俗易懂，适合入门选择。
 本书也是图文并茂的介绍了各种设计模式，并配有使用示例，对各种设计模式会有一个较为直观的印象。
 推荐看英文版，很厚，但多图且英文词汇比较简单，看完之后会极大增强阅读英文文档自信心
 
+### How Tomcat Works | [8.4](https://book.douban.com/subject/10426640/)
+
+工欲善其事，必先利其器，虽然讲解的版本比较老，但本质的东西是一样的
+
 ### [黑客与画家](https://oopstorm.github.io/2018/10/15/2018-10-15-hackers-and-painters/) | [8.8](https://book.douban.com/subject/6021440/)
 
 看似无关的两个职业，却有着极大的相似性。匠人精神是每个行业都需要的。黑客、财富、创业、设计、编程语言，从不同角度体验信息时代带来的变革。
@@ -154,7 +158,7 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 
 《实战Java高并发程序设计》主要介绍基于Java的并行程序设计基础、思路、方法和实战。
 
-### 数学之美 | [8.9](https://book.douban.com/subject/26163454/)
+### [数学之美](https://github.com/oopstorm/oopstorm.github.io/issues/73) | [8.9](https://book.douban.com/subject/26163454/)
 
 数学与计算机有着密不可分的联系，上学时经常会想学数学有什么用，工作一段时间后，不妨回过头来再细细品味一下数学之美
 
